@@ -1,13 +1,1 @@
-# v1.1.1 
-
-## Header 1.1.1.2
-### Overview
-
-This is Overview paragraph
-
-# v1.1.2 
-
-## Header 1.1.2.1
-### Overview
-
-This is another Overview paragraph
+"% Project Status Update\n% Project Team\n% 2024-01-01\n\n# Current Status\n\n## Milestones\n\n- Phase 1 Complete\n- Phase 2 In Progress\n- Phase 3 Planning"
