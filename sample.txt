@@ -1,1 +1,16 @@
-"% Project Status Update\n% Project Team\n% 2024-01-01\n\n# Current Status\n\n## Milestones\n\n- Phase 1 Complete\n- Phase 2 In Progress\n- Phase 3 Planning"
+# v1.1.1 verify the use of a secure software development lifecycle that addresses security in all stages of development. ([c1](https://owasp.org/www-project-proactive-controls/#div-numbering))
+
+## Secure Software Development Life Cycle (SDLC)
+### Overview
+
+To ensure the security of the payment processing and transaction validation systems, our organization will implement a Secure Software Development Life Cycle (SDLC). This approach integrates security into every phase of the software development process, from planning and design to testing and deployment.
+
+### Requirements
+
+The following requirements must be met to ensure a secure SDLC:
+
+#### 1. Secure Coding Practices
+
+*   **Use secure coding guidelines**: Developers must follow secure coding practices and guidelines, such as those provided by OWASP, to prevent common web application vulnerabilities.
+*   **Code reviews**: Regular code reviews must be conducted to identify and address potential security issues.
+*   **Static code analysis**: Static code analysis tools must be used to detect security vulnerabilities in the code.
